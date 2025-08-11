@@ -1,3 +1,3 @@
-##Hello git
+## Hello git
 
--- adding from 'feature-branch'
+- adding from 'feature-branch'
